@@ -66,9 +66,9 @@ To create a test project that can use the Portal Test Framework, use the followi
 
 1. Create a new **Visual Studio** Unit Test Project.
 
-1. Install the NuGet Package Microsoft.Portal.TestFramework from [https://msazure.visualstudio.com/DefaultCollection/One/_apps/hub/ms.feed.feed-hub?feedName=Official&protocolType=NuGet&packageName=microsoft.portal.testframework](https://msazure.visualstudio.com/DefaultCollection/One/_apps/hub/ms.feed.feed-hub?feedName=Official&protocolType=NuGet&packageName=microsoft.portal.testframework).
+1. Install the NuGet Package Microsoft.Portal.TestFramework from [https://msazure.visualstudio.com/DefaultCollection/One/_packaging?_a=package&feed=Official%40Local&protocolType=NuGet&package=Microsoft.Portal.TestFramework](https://msazure.visualstudio.com/DefaultCollection/One/_packaging?_a=package&feed=Official%40Local&protocolType=NuGet&package=Microsoft.Portal.TestFramework).
 
-1. If your test cases use the Azure Marketplace, also install the Microsoft.Portal.TestFramework.MarketplaceUtilities package from [https://msazure.visualstudio.com/DefaultCollection/One/_apps/hub/ms.feed.feed-hub?feedName=Official&protocolType=NuGet&packageName=microsoft.portal.testframework.marketplaceutilities](https://msazure.visualstudio.com/DefaultCollection/One/_apps/hub/ms.feed.feed-hub?feedName=Official&protocolType=NuGet&packageName=microsoft.portal.testframework.marketplaceutilities), which contains Selenium classes for elements in the Azure Marketplace.
+1. If your test cases use the Azure Marketplace, also install the Microsoft.Portal.TestFramework.MarketplaceUtilities package from [https://msazure.visualstudio.com/DefaultCollection/One/_packaging?_a=package&feed=Official%40Local&protocolType=NuGet&package=Microsoft.Portal.Testframework.MarketplaceUtilities](https://msazure.visualstudio.com/DefaultCollection/One/_packaging?_a=package&feed=Official%40Local&protocolType=NuGet&package=Microsoft.Portal.Testframework.MarketplaceUtilities), which contains Selenium classes for elements in the Azure Marketplace.
 
 1. Add an `app.config` file to your test project and define the basic Test Framework settings under appSettings, as in the following example.
 

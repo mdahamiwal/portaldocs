@@ -20,7 +20,7 @@ For CoreXT based environemtns, you can add a reference to the package in your **
 <package id="Microsoft.Portal.Extensions.Cdn" version="1.0.13.177" />
 ```
 
-*Note:* you will need to update the version with the latest from [here](https://msazure.visualstudio.com/DefaultCollection/One/_apps/hub/ms.feed.feed-hub?feedName=Official&protocolType=NuGet&packageName=microsoft.portal.extensions.cdn)
+*Note:* you will need to update the version with the latest from [here](https://msazure.visualstudio.com/DefaultCollection/One/_packaging?_a=package&feed=Official%40Local&protocolType=NuGet&package=Microsoft.Portal.Extensions.Cdn)
 
 ## 2. Referencing CDN PDE
 
