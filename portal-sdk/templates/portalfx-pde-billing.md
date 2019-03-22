@@ -16,7 +16,7 @@ From nuget package manager console
 Install-Package Microsoft.Portal.Extensions.Billing -Source https://msazure.pkgs.visualstudio.com/DefaultCollection/_packaging/Official/nuget/v3/index.json -Version <Version_Number>
 ```
 
-*Note:* you will need to update the <Version_Number> with the latest version number from [here](https://msazure.visualstudio.com/DefaultCollection/One/_apps/hub/ms.feed.feed-hub?feedName=Official&protocolType=NuGet&packageName=microsoft.portal.extensions.billing)
+*Note:* you will need to update the <Version_Number> with the latest version number from [here](https://msazure.visualstudio.com/DefaultCollection/One/_packaging?_a=package&feed=Official%40Local&package=Microsoft.Portal.Extensions.Billing&&protocolType=NuGet)
 
 ## Consumption 
 
